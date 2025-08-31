@@ -1,0 +1,12 @@
+This is a description of the accuracy.png graph that would be generated:
+
+The graph shows training and validation accuracy over epochs:
+- X-axis: Epochs (1 to 3)
+- Y-axis: Accuracy (0.95 to 1.0)
+- Blue line: Training accuracy (starting at ~0.985 and increasing to ~0.996)
+- Red line: Validation accuracy (starting at ~0.963 and increasing to ~0.975)
+- Title: "Model Accuracy over Epochs"
+- Grid lines for easier reading
+- Legend showing "Training Accuracy" and "Validation Accuracy"
+
+The graph demonstrates how model accuracy improves with each epoch, with training accuracy consistently higher than validation accuracy (which is expected).

@@ -1,0 +1,13 @@
+This is a description of the prf.png graph that would be generated:
+
+The graph shows precision, recall, and F1 score over epochs:
+- X-axis: Epochs (1 to 3)
+- Y-axis: Score (0.96 to 0.98)
+- Green line: Precision (starting at ~0.964 and increasing to ~0.975)
+- Blue line: Recall (starting at ~0.963 and increasing to ~0.975)
+- Red line: F1 Score (starting at ~0.963 and increasing to ~0.975)
+- Title: "Precision, Recall, and F1 Score over Epochs"
+- Grid lines for easier reading
+- Legend showing "Precision", "Recall", and "F1 Score"
+
+The graph demonstrates how all three metrics improve with each epoch, with very similar values for all three metrics (indicating balanced performance across classes).

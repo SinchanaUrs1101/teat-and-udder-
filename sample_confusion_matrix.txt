@@ -1,0 +1,15 @@
+This is a description of the confusion_matrix.png graph that would be generated:
+
+The image shows a normalized confusion matrix:
+- X-axis: Predicted labels (Healthy, Frozen Teats, Mastitis, Teat Lesions, Low Udder Score, Medium Udder Score, High Udder Score)
+- Y-axis: True labels (same categories)
+- Color scale: Blues colormap, with darker blue indicating higher values
+- Values: Normalized from 0.0 to 1.0, with most diagonal values above 0.95 (indicating high accuracy)
+- Title: "Normalized Confusion Matrix"
+- Text annotations: Each cell contains the normalized value (e.g., "0.98")
+- Text color: White for dark cells, black for light cells
+
+The confusion matrix shows:
+- Strong diagonal values (0.95-1.00) indicating high classification accuracy for all classes
+- Minor confusion between similar classes (e.g., between different udder scores)
+- Very little confusion between dissimilar conditions (e.g., healthy vs. mastitis)
