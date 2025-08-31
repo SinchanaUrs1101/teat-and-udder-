@@ -1,4 +1,5 @@
 UdderHealthAI - Cow Udder Health Detection System
+
 This is an AI-powered veterinary diagnostic tool that uses computer vision and machine learning to automatically detect and classify various udder and teat conditions in dairy cattle. The system can identify 7 different conditions:
 Healthy udders
 Frozen teats (cold damage)
