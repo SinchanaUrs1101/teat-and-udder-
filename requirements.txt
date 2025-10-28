@@ -1,0 +1,19 @@
+# Generated requirements based on code import analysis and pyproject.toml
+anthropic>=0.50.0
+matplotlib>=3.10.1
+numpy>=2.2.5
+opencv-python>=4.11.0.86
+pillow>=11.2.1
+requests>=2.32.3
+scikit-learn>=1.6.1
+streamlit>=1.45.0
+tensorflow>=2.14.0
+
+# Additional libraries detected in code (not present in pyproject.toml)
+scikit-image>=0.21.0
+pyttsx3>=2.90
+
+# Notes:
+# - cv2 is provided by opencv-python
+# - PIL / Pillow provides the "PIL" namespace
+# - If you prefer pinned versions, replace ">=" with "==" after verifying compatible versions
